@@ -1,0 +1,1 @@
+web: cd onyourterms && gunicorn onyourterms.wsgi
